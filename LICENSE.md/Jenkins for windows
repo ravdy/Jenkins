@@ -1,0 +1,11 @@
+1. Download Java 8 (jre-8u151-windows-x64.exe) from below link
+http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+2. Install java and set System Environment variables
+   edit PATH vairable and add Java installation location usually it is "C:\Program Files\Java\jre1.8.0_131"
+
+3. Download jenkins from "https://jenkins.io/download/"
+
+4. Install jenkins with below command 
+      java -jar jenkins.war
+      
